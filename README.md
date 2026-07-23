@@ -8,7 +8,7 @@ This project is a partial clone of the Accredian Enterprise website created as p
 
 ## 🚀 Live Demo
 
-Add your Vercel deployed link here:
+https://accredian-enterprise-clone-eight-nu.vercel.app/
 
 
 
