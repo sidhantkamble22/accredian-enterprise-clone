@@ -137,8 +137,107 @@ public
 
 ---
 
+---
+
 ## ⚙️ Installation & Setup
 
 Clone the repository:
 
 ```bash
+git clone https://github.com/sidhantkamble22/accredian-enterprise-clone.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd accredian-enterprise-clone
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Open your browser:
+
+```
+http://localhost:3000
+```
+
+---
+
+## 🏗️ Approach Taken
+
+The project was developed using a component-based architecture with Next.js App Router.
+
+Key implementation decisions:
+
+- Created reusable components for each section.
+- Used Tailwind CSS for responsive styling.
+- Added Framer Motion for smooth animations.
+- Implemented a lead capture form using Next.js API Routes.
+- Integrated a mock API to display testimonials dynamically.
+- Ensured the application is fully responsive across mobile, tablet, and desktop devices.
+
+---
+
+## 🤖 AI Usage
+
+**AI Tool Used:** ChatGPT
+
+### AI assisted with:
+
+- Planning the project structure
+- Component architecture
+- UI improvements
+- Responsive design suggestions
+- Debugging React and Next.js issues
+- Creating Framer Motion animations
+- Writing project documentation
+
+### Manual work completed:
+
+- Implemented all React components
+- Customized layouts and styling
+- Connected API routes
+- Added responsiveness
+- Tested and fixed UI issues
+- Managed deployment on Vercel
+
+---
+
+## 🚀 Future Improvements
+
+Given more time, I would:
+
+- Connect the lead form with a MongoDB database.
+- Add authentication and an admin dashboard.
+- Integrate a CMS for dynamic content.
+- Improve SEO and accessibility.
+- Add loading skeletons and better error handling.
+- Add search and filtering functionality for programs.
+
+---
+
+## 👨‍💻 Developer
+
+**Sidhant Kamble**
+
+- React.js
+- Next.js
+- JavaScript
+- Tailwind CSS
+- Node.js
+
+---
+
+## 📄 License
+
+This project was created for educational and internship assignment purposes.
